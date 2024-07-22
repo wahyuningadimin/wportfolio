@@ -1,3 +1,4 @@
+
 export default function Navbar() {
     return (
     <>
@@ -19,7 +20,7 @@ export default function Navbar() {
 
         <div class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
             <a class="rounded-lg px-5 py-2 text-md font-light font-sans text-white hover:bg-stone-500 hover:text-white">About</a>
-            <a class="rounded-lg px-5 py-2 text-md font-light font-sans text-white hover:bg-stone-500 hover:text-white">Contact</a>
+            <a class="rounded-lg px-5 py-2 text-md font-l font-sans text-white hover:bg-stone-500 hover:text-white">Contact</a>
         </div>
     </div>
     </div>

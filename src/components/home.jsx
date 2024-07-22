@@ -1,3 +1,4 @@
+import img from "../assets/avatar.jpg"
 
 export default function Home() {
     return (
@@ -11,7 +12,7 @@ export default function Home() {
 
                     <div class="w-full self-end px-4 lg:w-1/2">
                         <div class="relative mt-10 lg:mt-9 lg:right-0">
-                            <img src="./src/assets/avatar.png" alt="wn" class="max-w-full mx-auto"/>
+                            <img src={img} alt="wn" class="max-w-full mx-auto"/>
                         </div>  
                     </div>
                 </div>
