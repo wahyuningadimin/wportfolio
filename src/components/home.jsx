@@ -1,4 +1,4 @@
-import img from "../assets/avatar.jpg"
+import img from "../assets/avatar.png"
 
 export default function Home() {
     return (
